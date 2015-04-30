@@ -1,0 +1,12 @@
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\Contracts\bin\Debug\Contracts.dll
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\Contracts\bin\Debug\Contracts.pdb
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\Contracts\obj\Debug\Contracts.dll
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\Contracts\obj\Debug\Contracts.pdb
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Projects\GrosvenorPracticum\Contracts\bin\Debug\Contracts.dll
+C:\Projects\GrosvenorPracticum\Contracts\bin\Debug\Contracts.pdb
+C:\Projects\GrosvenorPracticum\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Projects\GrosvenorPracticum\Contracts\obj\Debug\Contracts.dll
+C:\Projects\GrosvenorPracticum\Contracts\obj\Debug\Contracts.pdb
+C:\Projects\GrosvenorPracticum\Contracts\bin\Debug\BusinessObjects.dll
+C:\Projects\GrosvenorPracticum\Contracts\bin\Debug\BusinessObjects.pdb

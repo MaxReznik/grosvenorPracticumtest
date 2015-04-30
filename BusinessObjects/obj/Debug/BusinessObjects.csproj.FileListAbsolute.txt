@@ -1,0 +1,5 @@
+C:\Projects\GrosvenorPracticum\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Projects\GrosvenorPracticum\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Projects\GrosvenorPracticum\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Projects\GrosvenorPracticum\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Projects\GrosvenorPracticum\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache

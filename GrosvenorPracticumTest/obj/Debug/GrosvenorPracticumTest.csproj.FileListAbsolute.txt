@@ -1,0 +1,20 @@
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\GrosvenorPracticumTest.dll
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\GrosvenorPracticumTest.pdb
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticumTest\obj\Debug\GrosvenorPracticumTest.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticumTest\obj\Debug\GrosvenorPracticumTest.dll
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticumTest\obj\Debug\GrosvenorPracticumTest.pdb
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\Contracts.dll
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\Contracts.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\GrosvenorPracticumTest.dll
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\GrosvenorPracticumTest.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\Contracts.dll
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\Contracts.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\obj\Debug\GrosvenorPracticumTest.csprojResolveAssemblyReference.cache
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\obj\Debug\GrosvenorPracticumTest.dll
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\obj\Debug\GrosvenorPracticumTest.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\BusinessObjects.dll
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\BusinessObjects.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\GrosvenorPracticum.exe
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\Ninject.dll
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\GrosvenorPracticum.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticumTest\bin\Debug\Ninject.xml

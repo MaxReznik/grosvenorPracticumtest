@@ -1,0 +1,18 @@
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\GrosvenorPracticum.exe.config
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\GrosvenorPracticum.exe
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\GrosvenorPracticum.pdb
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticum\obj\Debug\GrosvenorPracticum.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticum\obj\Debug\GrosvenorPracticum.exe
+c:\users\max\documents\visual studio 2013\Projects\GrosvenorPracticum\GrosvenorPracticum\obj\Debug\GrosvenorPracticum.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\GrosvenorPracticum.exe.config
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\obj\Debug\GrosvenorPracticum.exe
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\obj\Debug\GrosvenorPracticum.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\GrosvenorPracticum.exe
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\GrosvenorPracticum.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\obj\Debug\GrosvenorPracticum.csprojResolveAssemblyReference.cache
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\Contracts.dll
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\Ninject.dll
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\Contracts.pdb
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\Ninject.xml
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\BusinessObjects.dll
+C:\Projects\GrosvenorPracticum\GrosvenorPracticum\bin\Debug\BusinessObjects.pdb

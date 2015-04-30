@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="46dea4d2-170a-4d0c-9bf2-bbabfbb70fec" name="mreznyk@USNBF1X7H12 2015-04-30 17:57:59" runUser="DEVELOPMENT\mreznyk" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="46344fd6-f1d0-458e-8480-126970dab566">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="mreznyk_USNBF1X7H12 2015-04-30 17_57_59" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2015-04-30T17:57:59.6310472-05:00" queuing="2015-04-30T17:58:00.1340975-05:00" start="2015-04-30T17:58:00.2021043-05:00" finish="2015-04-30T17:58:00.5551396-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="18" executed="18" passed="18" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="OrderTypeParseTestSuccess" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="6bc4ebc1-7fe3-8331-7489-0bc146b383e3">
+      <Execution id="a7a22aca-4ac9-4dae-9369-d4f39bddb23f" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.StringToOrderConverterTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OrderTypeParseTestSuccess" />
+    </UnitTest>
+    <UnitTest name="ValidateCorrectOrderTest" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="6ab77bd6-2f35-3139-4cd3-a1f36575c0e5">
+      <Execution id="9c31ac21-76e0-4c5b-9a8c-d75d266e2173" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.NotAvailableValidatorTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateCorrectOrderTest" />
+    </UnitTest>
+    <UnitTest name="GenerateOutputWithMultipleItems" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="09162993-62fd-3f77-0dd4-b841989c8589">
+      <Execution id="b681478d-8acc-4e0f-aca2-e96d3003191f" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.OutputGeneratorTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateOutputWithMultipleItems" />
+    </UnitTest>
+    <UnitTest name="GenerateOutputForOrderWithoutErrors" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="d15dc191-85fa-3eae-5748-42195699771f">
+      <Execution id="c1e7d513-8b89-4c81-985c-79042346cfa0" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.OutputGeneratorTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateOutputForOrderWithoutErrors" />
+    </UnitTest>
+    <UnitTest name="SortTestNoError" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="101c6bb1-13e9-4f8d-ea55-4de328ec6575">
+      <Execution id="4b4d2640-3d07-4088-98f4-513e8f8794ef" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.DishSorterTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SortTestNoError" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="7aa0c3aa-5f5c-c100-cb08-883d36fb679e">
+      <Execution id="f16dad57-4bfe-4421-aea9-0b70fc386382" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.OrderTrimmerTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="SortTestWithError" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="e3dd71cf-8cf8-1340-31d4-64e36f742a79">
+      <Execution id="2cd7966e-63f0-40dd-82a6-31c346b4e798" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.DishSorterTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SortTestWithError" />
+    </UnitTest>
+    <UnitTest name="MasterTestMethod" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="2d521880-4bf5-05dc-64fe-d17c87898300">
+      <Execution id="b3dff7eb-22e3-4f93-80a2-82471f1e5077" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.MasterTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MasterTestMethod" />
+    </UnitTest>
+    <UnitTest name="ValidateAlreadyValidatedInvalidOrderErrorIndexDoesNotChangeTest" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="f4266396-bbe8-6a60-88bf-3ed8e15756cb">
+      <Execution id="ce004a8f-aa1f-4a3b-933b-4c03e4cc7ef0" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.NotAvailableValidatorTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateAlreadyValidatedInvalidOrderErrorIndexDoesNotChangeTest" />
+    </UnitTest>
+    <UnitTest name="ConversionNumbersToDishesTest" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="c1772dc6-8422-504f-3f15-65ed20a14578">
+      <Execution id="50072ebd-5d29-4be0-a00c-d05d4769815f" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.StringToOrderConverterTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ConversionNumbersToDishesTest" />
+    </UnitTest>
+    <UnitTest name="GenerateOutputForOrderWithError" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="47ab334f-320c-9806-4600-dbccf419df33">
+      <Execution id="9bce1c6d-9844-4319-8227-95e91240c277" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.OutputGeneratorTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateOutputForOrderWithError" />
+    </UnitTest>
+    <UnitTest name="ValidateCorrectOrderTest" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="f32b3fa4-fe7f-4c31-7a8b-f69d4fbe870d">
+      <Execution id="50dfd34e-9efa-4067-ada1-384081668f45" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.MaxCountValidationStepTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateCorrectOrderTest" />
+    </UnitTest>
+    <UnitTest name="ValidateAlreadyValidatedInvalidOrderErrorIndexChangesTest" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="2ac5ae59-fcba-5c8b-1429-90ba3d926d4b">
+      <Execution id="c7c1af16-3e95-484f-8e0b-324da01c2a21" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.NotAvailableValidatorTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateAlreadyValidatedInvalidOrderErrorIndexChangesTest" />
+    </UnitTest>
+    <UnitTest name="ValidateIncorrectOrderTest" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="24a6c137-2bd6-d2e6-4ec7-a85ba10e6c77">
+      <Execution id="5eea5492-cdcf-499d-b4fc-b2247f1f32ca" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.MaxCountValidationStepTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateIncorrectOrderTest" />
+    </UnitTest>
+    <UnitTest name="ValidateIncorrectOrderTest" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="a046b463-a433-75d7-598f-46ca4044cfda">
+      <Execution id="afadac87-75c3-4ad1-9df8-5357f284b8f1" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.NotAvailableValidatorTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateIncorrectOrderTest" />
+    </UnitTest>
+    <UnitTest name="OrderGroupingWithError" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="1f866aff-89af-f1ad-659a-b281ca4501e5">
+      <Execution id="744b423d-7f25-4a86-937f-58732de5881a" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.OrderTrimmerTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OrderGroupingWithError" />
+    </UnitTest>
+    <UnitTest name="ValidateAlreadyValidatedInvalidOrderErrorIndexChangesTest" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="95b552a8-51da-e88a-747c-9814ae9b0a0d">
+      <Execution id="c4e61e4d-12fa-4221-8d11-cf9fdf498079" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.MaxCountValidationStepTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateAlreadyValidatedInvalidOrderErrorIndexChangesTest" />
+    </UnitTest>
+    <UnitTest name="ValidateAlreadyValidatedInvalidOrderErrorIndexDoesNotChangeTest" storage="grosvenorpracticumtest\bin\debug\grosvenorpracticumtest.dll" id="8c3f04c5-d0c7-f2c9-c5a8-a5b2a3af759e">
+      <Execution id="9728881d-dae1-41fd-9fc2-2fa2da5111b0" />
+      <TestMethod codeBase="C:/Projects/GrosvenorPracticum/GrosvenorPracticumTest/bin/Debug/GrosvenorPracticumTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GrosvenorPracticumTest.MaxCountValidationStepTest, GrosvenorPracticumTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateAlreadyValidatedInvalidOrderErrorIndexDoesNotChangeTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="101c6bb1-13e9-4f8d-ea55-4de328ec6575" executionId="4b4d2640-3d07-4088-98f4-513e8f8794ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3dd71cf-8cf8-1340-31d4-64e36f742a79" executionId="2cd7966e-63f0-40dd-82a6-31c346b4e798" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2d521880-4bf5-05dc-64fe-d17c87898300" executionId="b3dff7eb-22e3-4f93-80a2-82471f1e5077" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="95b552a8-51da-e88a-747c-9814ae9b0a0d" executionId="c4e61e4d-12fa-4221-8d11-cf9fdf498079" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c3f04c5-d0c7-f2c9-c5a8-a5b2a3af759e" executionId="9728881d-dae1-41fd-9fc2-2fa2da5111b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f32b3fa4-fe7f-4c31-7a8b-f69d4fbe870d" executionId="50dfd34e-9efa-4067-ada1-384081668f45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="24a6c137-2bd6-d2e6-4ec7-a85ba10e6c77" executionId="5eea5492-cdcf-499d-b4fc-b2247f1f32ca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ac5ae59-fcba-5c8b-1429-90ba3d926d4b" executionId="c7c1af16-3e95-484f-8e0b-324da01c2a21" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f4266396-bbe8-6a60-88bf-3ed8e15756cb" executionId="ce004a8f-aa1f-4a3b-933b-4c03e4cc7ef0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ab77bd6-2f35-3139-4cd3-a1f36575c0e5" executionId="9c31ac21-76e0-4c5b-9a8c-d75d266e2173" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a046b463-a433-75d7-598f-46ca4044cfda" executionId="afadac87-75c3-4ad1-9df8-5357f284b8f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1f866aff-89af-f1ad-659a-b281ca4501e5" executionId="744b423d-7f25-4a86-937f-58732de5881a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7aa0c3aa-5f5c-c100-cb08-883d36fb679e" executionId="f16dad57-4bfe-4421-aea9-0b70fc386382" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47ab334f-320c-9806-4600-dbccf419df33" executionId="9bce1c6d-9844-4319-8227-95e91240c277" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d15dc191-85fa-3eae-5748-42195699771f" executionId="c1e7d513-8b89-4c81-985c-79042346cfa0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09162993-62fd-3f77-0dd4-b841989c8589" executionId="b681478d-8acc-4e0f-aca2-e96d3003191f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1772dc6-8422-504f-3f15-65ed20a14578" executionId="50072ebd-5d29-4be0-a00c-d05d4769815f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6bc4ebc1-7fe3-8331-7489-0bc146b383e3" executionId="a7a22aca-4ac9-4dae-9369-d4f39bddb23f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4b4d2640-3d07-4088-98f4-513e8f8794ef" testId="101c6bb1-13e9-4f8d-ea55-4de328ec6575" testName="SortTestNoError" computerName="USNBF1X7H12" duration="00:00:00.0143670" startTime="2015-04-30T17:58:00.2351076-05:00" endTime="2015-04-30T17:58:00.4211262-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4b4d2640-3d07-4088-98f4-513e8f8794ef">
+    </UnitTestResult>
+    <UnitTestResult executionId="2cd7966e-63f0-40dd-82a6-31c346b4e798" testId="e3dd71cf-8cf8-1340-31d4-64e36f742a79" testName="SortTestWithError" computerName="USNBF1X7H12" duration="00:00:00.0010366" startTime="2015-04-30T17:58:00.4261267-05:00" endTime="2015-04-30T17:58:00.4301271-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2cd7966e-63f0-40dd-82a6-31c346b4e798">
+    </UnitTestResult>
+    <UnitTestResult executionId="b3dff7eb-22e3-4f93-80a2-82471f1e5077" testId="2d521880-4bf5-05dc-64fe-d17c87898300" testName="MasterTestMethod" computerName="USNBF1X7H12" duration="00:00:00.0113252" startTime="2015-04-30T17:58:00.4401281-05:00" endTime="2015-04-30T17:58:00.4561297-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b3dff7eb-22e3-4f93-80a2-82471f1e5077">
+    </UnitTestResult>
+    <UnitTestResult executionId="c4e61e4d-12fa-4221-8d11-cf9fdf498079" testId="95b552a8-51da-e88a-747c-9814ae9b0a0d" testName="ValidateAlreadyValidatedInvalidOrderErrorIndexChangesTest" computerName="USNBF1X7H12" duration="00:00:00.0010742" startTime="2015-04-30T17:58:00.4591300-05:00" endTime="2015-04-30T17:58:00.4611302-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4e61e4d-12fa-4221-8d11-cf9fdf498079">
+    </UnitTestResult>
+    <UnitTestResult executionId="9728881d-dae1-41fd-9fc2-2fa2da5111b0" testId="8c3f04c5-d0c7-f2c9-c5a8-a5b2a3af759e" testName="ValidateAlreadyValidatedInvalidOrderErrorIndexDoesNotChangeTest" computerName="USNBF1X7H12" duration="00:00:00.0001942" startTime="2015-04-30T17:58:00.4631304-05:00" endTime="2015-04-30T17:58:00.4651306-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9728881d-dae1-41fd-9fc2-2fa2da5111b0">
+    </UnitTestResult>
+    <UnitTestResult executionId="50dfd34e-9efa-4067-ada1-384081668f45" testId="f32b3fa4-fe7f-4c31-7a8b-f69d4fbe870d" testName="ValidateCorrectOrderTest" computerName="USNBF1X7H12" duration="00:00:00.0008195" startTime="2015-04-30T17:58:00.4681309-05:00" endTime="2015-04-30T17:58:00.4701311-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50dfd34e-9efa-4067-ada1-384081668f45">
+    </UnitTestResult>
+    <UnitTestResult executionId="5eea5492-cdcf-499d-b4fc-b2247f1f32ca" testId="24a6c137-2bd6-d2e6-4ec7-a85ba10e6c77" testName="ValidateIncorrectOrderTest" computerName="USNBF1X7H12" duration="00:00:00.0005952" startTime="2015-04-30T17:58:00.4721313-05:00" endTime="2015-04-30T17:58:00.4751316-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5eea5492-cdcf-499d-b4fc-b2247f1f32ca">
+    </UnitTestResult>
+    <UnitTestResult executionId="c7c1af16-3e95-484f-8e0b-324da01c2a21" testId="2ac5ae59-fcba-5c8b-1429-90ba3d926d4b" testName="ValidateAlreadyValidatedInvalidOrderErrorIndexChangesTest" computerName="USNBF1X7H12" duration="00:00:00.0004633" startTime="2015-04-30T17:58:00.4781319-05:00" endTime="2015-04-30T17:58:00.4801321-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7c1af16-3e95-484f-8e0b-324da01c2a21">
+    </UnitTestResult>
+    <UnitTestResult executionId="ce004a8f-aa1f-4a3b-933b-4c03e4cc7ef0" testId="f4266396-bbe8-6a60-88bf-3ed8e15756cb" testName="ValidateAlreadyValidatedInvalidOrderErrorIndexDoesNotChangeTest" computerName="USNBF1X7H12" duration="00:00:00.0002208" startTime="2015-04-30T17:58:00.4821323-05:00" endTime="2015-04-30T17:58:00.4841325-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce004a8f-aa1f-4a3b-933b-4c03e4cc7ef0">
+    </UnitTestResult>
+    <UnitTestResult executionId="9c31ac21-76e0-4c5b-9a8c-d75d266e2173" testId="6ab77bd6-2f35-3139-4cd3-a1f36575c0e5" testName="ValidateCorrectOrderTest" computerName="USNBF1X7H12" duration="00:00:00.0002170" startTime="2015-04-30T17:58:00.4861327-05:00" endTime="2015-04-30T17:58:00.4881329-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9c31ac21-76e0-4c5b-9a8c-d75d266e2173">
+    </UnitTestResult>
+    <UnitTestResult executionId="afadac87-75c3-4ad1-9df8-5357f284b8f1" testId="a046b463-a433-75d7-598f-46ca4044cfda" testName="ValidateIncorrectOrderTest" computerName="USNBF1X7H12" duration="00:00:00.0001931" startTime="2015-04-30T17:58:00.4901331-05:00" endTime="2015-04-30T17:58:00.4921333-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="afadac87-75c3-4ad1-9df8-5357f284b8f1">
+    </UnitTestResult>
+    <UnitTestResult executionId="744b423d-7f25-4a86-937f-58732de5881a" testId="1f866aff-89af-f1ad-659a-b281ca4501e5" testName="OrderGroupingWithError" computerName="USNBF1X7H12" duration="00:00:00.0004189" startTime="2015-04-30T17:58:00.4941335-05:00" endTime="2015-04-30T17:58:00.4961337-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="744b423d-7f25-4a86-937f-58732de5881a">
+    </UnitTestResult>
+    <UnitTestResult executionId="f16dad57-4bfe-4421-aea9-0b70fc386382" testId="7aa0c3aa-5f5c-c100-cb08-883d36fb679e" testName="TestMethod1" computerName="USNBF1X7H12" duration="00:00:00.0002531" startTime="2015-04-30T17:58:00.4991340-05:00" endTime="2015-04-30T17:58:00.5001341-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f16dad57-4bfe-4421-aea9-0b70fc386382">
+    </UnitTestResult>
+    <UnitTestResult executionId="9bce1c6d-9844-4319-8227-95e91240c277" testId="47ab334f-320c-9806-4600-dbccf419df33" testName="GenerateOutputForOrderWithError" computerName="USNBF1X7H12" duration="00:00:00.0002915" startTime="2015-04-30T17:58:00.5021343-05:00" endTime="2015-04-30T17:58:00.5041345-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9bce1c6d-9844-4319-8227-95e91240c277">
+    </UnitTestResult>
+    <UnitTestResult executionId="c1e7d513-8b89-4c81-985c-79042346cfa0" testId="d15dc191-85fa-3eae-5748-42195699771f" testName="GenerateOutputForOrderWithoutErrors" computerName="USNBF1X7H12" duration="00:00:00.0006013" startTime="2015-04-30T17:58:00.5071348-05:00" endTime="2015-04-30T17:58:00.5101351-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1e7d513-8b89-4c81-985c-79042346cfa0">
+    </UnitTestResult>
+    <UnitTestResult executionId="b681478d-8acc-4e0f-aca2-e96d3003191f" testId="09162993-62fd-3f77-0dd4-b841989c8589" testName="GenerateOutputWithMultipleItems" computerName="USNBF1X7H12" duration="00:00:00.0002007" startTime="2015-04-30T17:58:00.5121353-05:00" endTime="2015-04-30T17:58:00.5141355-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b681478d-8acc-4e0f-aca2-e96d3003191f">
+    </UnitTestResult>
+    <UnitTestResult executionId="50072ebd-5d29-4be0-a00c-d05d4769815f" testId="c1772dc6-8422-504f-3f15-65ed20a14578" testName="ConversionNumbersToDishesTest" computerName="USNBF1X7H12" duration="00:00:00.0013969" startTime="2015-04-30T17:58:00.5161357-05:00" endTime="2015-04-30T17:58:00.5191360-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50072ebd-5d29-4be0-a00c-d05d4769815f">
+    </UnitTestResult>
+    <UnitTestResult executionId="a7a22aca-4ac9-4dae-9369-d4f39bddb23f" testId="6bc4ebc1-7fe3-8331-7489-0bc146b383e3" testName="OrderTypeParseTestSuccess" computerName="USNBF1X7H12" duration="00:00:00.0006431" startTime="2015-04-30T17:58:00.5211362-05:00" endTime="2015-04-30T17:58:00.5231364-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a7a22aca-4ac9-4dae-9369-d4f39bddb23f">
+    </UnitTestResult>
+  </Results>
+</TestRun>
